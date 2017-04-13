@@ -2,19 +2,19 @@
 Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"
 
 # Why is not Cosine distance ?
-![coise_drawback](./image/cosie_drawback.jpg)
+![coise_drawback](./image/cosie_drawback.JPG)
 
 # Why in not Euclidean distance ?
-![euclidean drawback](./image/euclidean_drawback.jpg)
+![euclidean drawback](./image/euclidean_drawback.JPG)
 
 # Definition of TS
-![TS](./image/TS.jpg)
+![TS](./image/TS.JPG)
 
 # Definition of SS
-![SS](./image/SS.jpg)
+![SS](./image/SS.JPG)
 
 # Definition of TS-SS
-![TS_SS](./image/TS_SS.jpg)
+![TS_SS](./image/TS_SS.JPG)
 
 # Results
-![results](./image/Result.jpg)
+![results](./image/Result.JPG)
