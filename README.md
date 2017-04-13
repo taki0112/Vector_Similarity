@@ -5,7 +5,7 @@
 # The reasons are... :
 
 ## Cosine drawbacks
-![coise_drawback](./image/cosine2_drawback.JPG)
+![coise_drawback](./image/cosine_drawback.JPG)
 
 ## Euclidean drawbacks
 ![euclidean drawback](./image/euclidean_drawback.JPG)
@@ -21,3 +21,8 @@
 
 ## Results
 ![results](./image/Result.JPG)
+
+## Conclusion
+* In biggest dataset, TS-SS outperforms Cosine with a significant difference, while in other datasets TS-SS outperforms Cosine slightly
+
+* Therefore, the significant better result of TS-SS in biggest dataset justifies the robustness and reliability of the model for big data and real world data where the variety of documents/texts are high
