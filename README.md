@@ -20,7 +20,7 @@
 ![TS_SS](./image/TS_SS.JPG)
 
 # Results
-![results](./image/Result.JPG)
+![results](./image/Result_.JPG)
 
 # Conclusion
 * In biggest dataset, TS-SS outperforms Cosine with a significant difference, while in other datasets TS-SS outperforms Cosine slightly
