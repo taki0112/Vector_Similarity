@@ -17,7 +17,7 @@
 ![SS](./image/SS.JPG)
 
 ## TS-SS
-![TS_SS](./image/TS_SS1.JPG)
+![TS_SS](./image/TS_SS.JPG)
 
 ## Results
 ![results](./image/Result.JPG)
