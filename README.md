@@ -5,7 +5,7 @@
 # The reasons are... :
 
 ## Cosine drawbacks
-![coise_drawback](./image/cosine_drawback.JPG)
+![coise_drawback](./image/cosine2_drawback.JPG)
 
 ## Euclidean drawbacks
 ![euclidean drawback](./image/euclidean_drawback.JPG)
