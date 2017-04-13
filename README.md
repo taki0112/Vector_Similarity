@@ -4,20 +4,20 @@
 
 # The reasons are... :
 
+## Cosine drawbacks
+![coise_drawback](./image/cosine_drawback.JPG)
 
-![coise_drawback](./image/cosie_drawback.JPG)
-
-
+## Euclidean drawbacks
 ![euclidean drawback](./image/euclidean_drawback.JPG)
 
-
+## Triangle's Area Similarity (TS)
 ![TS](./image/TS.JPG)
 
-
+## Sector's Area Similarity (SS)
 ![SS](./image/SS.JPG)
 
-
+## TS-SS
 ![TS_SS](./image/TS_SS.JPG)
 
-
+## Results
 ![results](./image/Result.JPG)
