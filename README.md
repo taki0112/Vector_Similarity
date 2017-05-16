@@ -30,5 +30,5 @@
 
 # Reference
 [1] A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering [[link1]](https://www.computer.org/csdl/proceedings/bigdataservice/2016/2251/00/2251a142.pdf) [[link2]](http://ieeexplore.ieee.org/document/7474366/) 
-[[download paper]](./TS-SS_paper.pdf)
+[[View Article]](./TS-SS_paper.pdf)
 
