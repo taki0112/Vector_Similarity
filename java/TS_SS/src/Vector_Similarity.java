@@ -50,7 +50,7 @@ public class Vector_Similarity {
 
 	public static double Theta(double[] v1, double[] v2) {
 		double V = Cosine(v1, v2);
-		double theta = Math.acos(V) + 10;
+		double theta = Math.acos(V) + Math.toRadians(10);
 
 		return theta;
 	}
