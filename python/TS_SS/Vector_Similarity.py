@@ -14,7 +14,7 @@ def Euclidean(vec1, vec2) :
     return math.sqrt(sum(math.pow((v1-v2),2) for v1,v2 in zip(vec1, vec2)))
 
 def Theta(vec1, vec2) :
-    return math.acos(Cosine(vec1,vec2)) + 10
+    return math.acos(Cosine(vec1,vec2)) + math.radians(10)
 
 def Triangle(vec1, vec2) :
     theta = math.radians(Theta(vec1,vec2))
